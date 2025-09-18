@@ -2,7 +2,7 @@
 # https://banking-atm.streamlit.app/
 # https://docs.streamlit.io/
 # Eg: https://bankingapp.streamlit.app/ (Done by teacher)
-# https://banking-atm.streamlit.app/
+# https://banking-atm.streamlit.app/ 
 
 import streamlit as st
 st.title("Welcome to the Banking App 🎈")
