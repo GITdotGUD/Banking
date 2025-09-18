@@ -1,7 +1,7 @@
 # https://emojipedia.org/
 # https://banking-atm.streamlit.app/
 # https://docs.streamlit.io/
-
+# Eg: https://bankingapp.streamlit.app/ (Done by teacher)
 
 import streamlit as st
 st.title("Welcome to the Banking App 🎈")
