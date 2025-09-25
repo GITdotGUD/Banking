@@ -2,7 +2,7 @@
 # make a login function for ATM
 # make a deposit and withdraw function for ATM
 # make a function to display account details for Account
-# make it so that there are saving subclaases which you u can view
+# make it so that there are saving subclasses which you can view
 # streamlit app.py
 # requirements.txt
 
